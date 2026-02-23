@@ -7,7 +7,7 @@ When I’m not coding, I enjoy exploring new technologies, contributing to devel
 
 ## About Me
 📍 Location: Nigeria  
-💼 Focus: Full-Stack Web Development  
+💼 Focus: Full-Stack Web Development, Mobile Developer  
 🎓 Education: Bachelor of Science in Mathematics (in view)  
 🌱 Currently Learning: Django & Backend Engineering  
 🧠 Interests: Web Development, System Design, Open-Source Collaboration  
@@ -27,13 +27,13 @@ JavaScript · TypeScript · Python
 React · Next.js · Tailwind CSS · HTML · CSS
 
 ### Backend
-Node.js · Express · Django (learning)
+Node.js · Express · Django, FastAPI · Docker
 
 ### Databases & Backend Services
-MongoDB · Supabase · Appwrite
+MongoDB · Supabase · Appwrite · Firebase
 
 ### Tools & Platforms
-Git · GitHub · Vercel · Render · Clerk
+Git · GitHub · Vercel · Render · Clerk · Sentry
 
 ## Contact
 📫 Email: ijomatheodore@gmail.com  
