@@ -9,7 +9,7 @@ When I’m not coding, I enjoy exploring new technologies, contributing to devel
 📍 Location: Nigeria  
 💼 Focus: Full-Stack Web Development, Mobile Developer  
 🎓 Education: Bachelor of Science in Mathematics (in view)  
-🌱 Currently Learning: Django & Backend Engineering  
+🌱 Currently Learning: Django
 🧠 Interests: Web Development, System Design, Open-Source Collaboration  
 
 ## Experience & Projects
